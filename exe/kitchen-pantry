@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'kitchen/pantry'
+Kitchen::Pantry.run
